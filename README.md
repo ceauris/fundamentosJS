@@ -6,4 +6,8 @@ Una simple página web creada para ayudar a completar la lección de aprendizaje
 
 ##### **ceauris**
 
+
+![](images/fron01.jpg) ![](images/fron02.jpg)
+
+
 Visitar sitio [Fundamentos Javascript](https://ceauris.github.io/fundamentosJS/)
